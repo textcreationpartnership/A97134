@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A religious demurrer, concerning submission to the present power: contained in a letter written to some religious gentlemen, and reverend divines in and about the city of London; from some peaceable and truth-seeking gentlemen in the countrey. Requesting as speedy and satisfactory an answer as they please to afford.</title>
+            <author>Ward, Nathaniel, 1578-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97134</idno>
+            <idno type="STC">Wing W781A</idno>
+            <idno type="STC">Thomason E530_19</idno>
+            <idno type="STC">ESTC R203432</idno>
+            <idno type="EEBO-CITATION">99863389</idno>
+            <idno type="PROQUEST">99863389</idno>
+            <idno type="VID">115588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115588)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E530[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A religious demurrer, concerning submission to the present power: contained in a letter written to some religious gentlemen, and reverend divines in and about the city of London; from some peaceable and truth-seeking gentlemen in the countrey. Requesting as speedy and satisfactory an answer as they please to afford.</title>
+                  <author>Ward, Nathaniel, 1578-1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Underhill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A.B.C.D., i.e. Nathaniel Ward.</note>
+                  <note>Caption title.</note>
+                  <note>Format uniform with "The second part of the religious demurrer", which was printed by Thomas Underhill (Wing). Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 26 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:115588:1" rendition="simple:additions"/>
+            <head>A Religious DEMURRER, CONCERNING Submiſſion to the preſent Power: Contained in a LETTER Written to ſome Religious Gentlemen, and Reverend Divines in and about the City of <hi>London;</hi> From ſome peaceable and Truth ſeeking Gentlemen in the Countrey.</head>
+            <head type="sub">Requeſting as ſpeedy and ſatisfactory an ANSWER as they pleaſe to afford.</head>
+            <opener>
+               <salute>Honoured, and Reverend;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been the lot of Gods ſervants in this Kingdom, for many years paſt, to walk upon many ſnares, which hath made their condition very comfortleſſe. We were in hope, that God, in the multitude of his mercies, would have taken them off the earth, ſet our feet upon even ground, and, ſo ſmooth'd our pathes, that we might have paſſed the remainder of our pil<g ref="char:EOLhyphen"/>grimage ſafely and chearfully, making ſtraight ſteps to his Kingdom, and no more turned out of the way, nor been ob<g ref="char:EOLhyphen"/>ſtructed in our courſe of holineſſe and obedience. But ſuch is the meaſure of our ſins, and ſuch his righteous judgements, that he thinks it ſtill requiſite to permit us to caſt ſuch ſtumbling blocks in one anothers way, as deprive us of the joy of our being, and of thoſe few remaining comforts, which, in his goodneſſe, he is pleaſed yet to continue, for the ſupport of our languiſhing ſpirits and conditions.</p>
+            <p>There is now a <hi>ſtuctus decumanus</hi> come upon us, a ſnare more perillous, than any we can call to minde.</p>
+            <p>We ſincerely deſire, to be preſerved from the ſins of complaining without a cauſe, of quarrelling with ſecondary means, of adding further troubles to this over<g ref="char:EOLhyphen"/>troubled State, of denying obedience to lawfull authority, of raiſing unneceſſary ſcruples in other mens heads and hearts, of ſtirring up coales of further diſſenſion: we deſire nothing but ſatisfaction to our doubting and diſtreſſed conſciences; ſuch ſatisfaction as may render us freely obſequious to Government, and reſpectively peaceable to the worſt of our enemies. Wherein if any of you, godly-wiſe, Ma<g ref="char:EOLhyphen"/>giſtrates
+<pb n="2" facs="tcp:115588:2" rendition="simple:additions"/>or Miniſters, or other judicious Gentlemen, will pleaſe to help us; we ſhall endeavour to the utmoſt to pray, that God will give them their due reward, and that we may requite their love with any Chriſtian ſervice lying within the compaſſe of our power.</p>
+            <p>Give us leave, we beſeech you, with all meekneſſe and reverence, to ſpread our caſe before you. We are now ſundry waies called to ſubmit to the commands of a new authority, where with we and our fore-fathers have not been acquainted, and of whoſe legality we are not yet ſufficiently informed. We have, not a little, la<g ref="char:EOLhyphen"/>boured with our weak underſtandings, nor have we given way to the diſtempers of our wills, ſo far as we can diſcern; we have conſulted with ſome, whom we judge moderate and prudent; and yet we finde our ſelves left in the dark concerning theſe two perplexed Queſtions.</p>
+            <p n="1">1. Whether this preſent Authority, taken up and exerciſed of late among us, be indeed lawfull and authentick, if throughly weighed in the ſcales of God, or of the State of <hi>England?</hi>
+            </p>
+            <p n="2">2. Whether godly men, who deſire to order their ſteps according to the Word, are bound in Conſcience to yeeld obedience to ſuch a Government, as in their moſt peaceable and inquiſitive apprehenſions, they judge unlawfull, at leaſt very du<g ref="char:EOLhyphen"/>bitable?</p>
+            <p>Concerning the firſt; we crave leave with all modeſty and ſobriety, to propound theſe our enſuing doubts.</p>
+            <p>That our judgements may be clearly ſetled, we are neceſſited to inquire, as inof<g ref="char:EOLhyphen"/>fenſively as we may, Whether this, which is now termed our Parliament, be in<g ref="char:EOLhyphen"/>deed either formally, materially, or effectually a Parliament, ſuch a Parliament as is eſſentially requiſite for this Kingdom, either according to the minde of God, or the neceſſities of the State?</p>
+            <p>The grounds of this our inquiry are theſe.</p>
+            <p>If we underſtand either the ancient conſtitutions of Kingdoms drawn out by God, or thoſe Syſtems and Comments of Polity, which intelligent and experien<g ref="char:EOLhyphen"/>ced Stateſmen have left us: All forms of Government are firſt conſtituted, by Gods immediate direction, or by the wiſdome of ſupreme Governours, or by the pru<g ref="char:EOLhyphen"/>dence of an <hi>Homogeneous</hi> and <hi>In-organized</hi> people, fitly ordered to ſuch a work: By People, we underſtand <hi>totus populus,</hi> or at leaſt <hi>major pars populi,</hi> denying no de<g ref="char:EOLhyphen"/>gree their due ſhare of Counſel or Vote. Without which, we alſo conceive, no form of State can be eſſentially altered: holding it an it efragable Aphoriſme, That no frame of State can be formally changed, but by the power of thoſe who firſt conſti<g ref="char:EOLhyphen"/>tuted it: unleſſe it be by Conqueſt.</p>
+            <p>If we ſhould grant, that our State of <hi>England</hi> was at firſt framed, or hitherto con<g ref="char:EOLhyphen"/>tinued, by the people, <hi>viz.</hi> the whole people, or the major part; yet this modern model ſeems not to be ſo.</p>
+            <p>This was altered by the Commons only, which, in our account are but one State of the three; yea this was done but by a third part of the Commons, if by ſo many.</p>
+            <p>This excludes the <hi>Nobility,</hi> as an Integrant party, which are the <hi>clarior</hi> and <hi>il<g ref="char:EOLhyphen"/>luſtrior pars populi,</hi> bound <hi>jure gentium</hi> to be the main pillars of thoſe politicall Theaters where they live. We humoly conceive, that, in a naturall body, the nobler
+<pb n="3" facs="tcp:115588:2"/>parts have proper powers and principles to perform their vitall offices, now bor<g ref="char:EOLhyphen"/>rowed from the inferiour members, yet not denying them their due portions and functions.</p>
+            <p>We mention not the KING; yet we cannot but obſerve, that the whole univerſe is governed by God, Angels and Men: all naturall and ſubcoeleſtiall crea<g ref="char:EOLhyphen"/>tures, by Sun, Moon and Stars: all humane bodies, by an head, a region of vitalls, and inferiour members. Where a Province is rude and illiterate, a <hi>Democracy</hi> will do well, ordered by the <hi>Optimates:</hi> In a State adorned with Gentry and wealthy Mer<g ref="char:EOLhyphen"/>chants, an <hi>Ariſtocracy</hi> will do better, managed by the <hi>Proceres:</hi> In a Kingdom flouriſhing with ancient Nobility and high-bred families, <hi>Royalty</hi> ſeems to be beſt.<note place="margin">Prov. 10.16. Eccleſ. 8.4. Iob 29.25.</note> God hath bleſſed all three forms, but alwaies when they have been ſuitable to the people and places. But the laſt moſt of all: Which, both in peace and warre, puts moſt luſtre and power upon authority and arms, and moſt dread upon profligate perſons and enemies. There is a ſaying, <hi>Regis ad exemplum</hi>—Little do a State conſider, what they may gain by the Majeſtique example of a religious, vertuous and well circumſcribed King (neither too powerfull, nor too chargeable; neither yet too deſpicable,) if ſuch may be had: and we are not hopeleſſe, that ſome of our Roy all Stemmes may ſo prove. Where a true proportion of all three ſorts may be had in a Parliament, they are ſo many ſieves and ſearſes to make Laws fine and exact.</p>
+            <p>This was done without the counſel, and againſt the conſent of two thirds of the people.</p>
+            <p>This was done by force and faction, if we may ſo call it; grounds whereon God never builds ſtable ſtructures.</p>
+            <p>This excludes two third parts of the Commons choſen by the Realm; ſo that it is not the elected Parliament of the people, but the ſelected Parliament of a faction; and may be ſaid, as of old, that it is <hi>Senatus Senatùs,</hi> and not <hi>Senatus Reipublicae.</hi>
+            </p>
+            <p>We alſo ſuppoſe, that this was chiefly contrived and acted by ſome members of the Parliament, which makes the force the more inteſtine and ſinfull, and the au<g ref="char:EOLhyphen"/>thority of the Houſe the more invalid. If fourty men were Commiſſioners to do an act of publike juſtice, or any ten of them in abſence of the reſt: if part of theſe ſhould by force impede the meeting of the reſt, who they thought would not con<g ref="char:EOLhyphen"/>cur with their mindes and aimes, and admit only ſuch as they knew would con<g ref="char:EOLhyphen"/>join with their counſels and purpoſes: we apprehend this Commiſſion to be truly void, and the acts of the inforcing party legally null.</p>
+            <p>We think it a firm Axiome, That when part of any thing is cut off, the whole <hi>quâ tale</hi> is deſtroyed, ſo that it cannot be truly ſaid to be <hi>totum</hi> or <hi>integrum. Dum ceſſat forma ceſſat formatum,</hi> and <hi>dum ceſſat formatum, ceſſat forma;</hi> both which we ſuppeſe were done in the late forcible diſſipation of the Parliament.</p>
+            <p>We are not ignorant, that there is an ancient Order of Parliament; That if four<g ref="char:EOLhyphen"/>ty members, with the Speaker, be preſent, it is an Houſe.</p>
+            <p>Should we grant it an Houſe of Commons; yet, that ſuch an Houſe, when the reſt of the members are forcibly kept away, can, by our conſtitution, be an intire Parlia<g ref="char:EOLhyphen"/>ment (yea or an intire Houſe of Commons) we cannot grant.</p>
+            <p>It is alwaies to be ſuppoſed, That the reſt of the members of the Houſe have a vir<g ref="char:EOLhyphen"/>tuall power, and legall liberty, to aſſede if they will.</p>
+            <pb n="4" facs="tcp:115588:3"/>
+            <p> If a forraign enemy ſhould invade and deter away all but fourty, which were not of their faction; we think that the Houſe may hold as an Houſe by vertue of that Order; and their Votes be reputed valid, at leaſt ſuch of them as are in derogation to thoſe which cauſe that force; becauſe the reſt, it may be rationally preſumed, would have aſſented, if they had been preſent. But in caſe, the fourty remaining were of their faction, or confederates with thoſe that thus deterred the reſt, and therefore ſuffered to remain becauſe they are ſo, when the reſt are therefore deterred or detained becauſe they are not ſo: We conceive, there is no reaſon why their Votes or Acts ſhould be reputed as Votes or Acts of the whole Houſe, eſpecially ſuch as are in favour of thoſe who cauſe this force; becauſe thoſe that are abſent may juſtly be preſumed to be diſſenters.</p>
+            <p>In caſe the King, when he came to the Houſe of Commons with a force, intending, as is preſumed, to take away five of their members; had actually taken away or de<g ref="char:EOLhyphen"/>terred all, but fourty, or perhaps fifty, of ſuch as would concur with ſome deſigne of his: and this fourty of fifty had aſſented to ſome Act by him propounded, (perhaps, That thenceforth there ſhould be no more any Houſe of Commons, but that either the King alone, or the King and Lords had a fall legiſlative power, to make, alter, ab<g ref="char:EOLhyphen"/>rogate and interpret Laws:) We are very confident, that ſuch an Act could not, in reaſon, be deemed a valid Act or Vote of the Houſe of Commons, notwithſtanding the preſence of the Speaker and fourty members; nor would it ſo have been repu<g ref="char:EOLhyphen"/>ted by thoſe men who now plead moſt for the authority of the preſent Houſe.</p>
+            <p>We very well remember, that ſome Votes paſſ'd in the preſence of the Speaker, and more then fourty members, were (upon far leſſe ground then what is ſuppo<g ref="char:EOLhyphen"/>ſed, or hath been ſince acted) adjudged, <hi>to be null at the time of the paſſing, becauſe un<g ref="char:EOLhyphen"/>der a force:</hi> ſo that, it ſeems, ſomewhat elſe was then requiſite to the making of a valid Vote of the Houſe of Commons, than barely the preſence of fourty members. And yet, we beleeve, that the ſame men who judged thoſe <hi>Null,</hi> judge the preſent Acts <hi>valid,</hi> though under a greater force; of which we can imagin no other reaſon, but, becauſe theſe conduce to their deſignes, the other did not. It ſeems, that with ſome men, <hi>Veritas non eſt perpetua,</hi> and, <hi>Duo cùm faciunt idem, non eſt idem.</hi> Some men may better ſteal a horſe, than others look over the hedge.</p>
+            <p>Although therefore we may grant, that, in ſome caſes, fourty members (with, or without a Speaker, as in caſe of his death, ſickneſſe, captivity, wilfull default, or the like,) promiſcuouſly <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>et (and not culled out upon deſigne,) may make a Houſe of Commons, by vertue of that Order; (as when the Houſe it ſelf hath imploied ſome, impriſoned others in a due manner of proceeding, ſome be abſent by reaſon of ſickneſſe, or occaſions of their own, or perhaps detained by ſome externall violence of a forraigue enemy or the like:) But in caſe a faction of ſubject, or a party of the houſe it ſelf, ſhould by violence effect it, for the carrying on of their particular de<g ref="char:EOLhyphen"/>ſignes, contrary to the judgements of the reſt; the life and ſtrength of that Order ſeems to be utterly diſſolved and deſtroyed. It's an Axiom in Law, and in Reaſon, That no man may take advantage of his own wrongfull act.</p>
+            <p>We alſo crave leave to ſay, that That Order, if ſo urged, ſeems to be againſt the order of God, and ſafety of the State; unleſſe limited to meer prudentiall and cir<g ref="char:EOLhyphen"/>cumſtantiall matters of inferiour moment. It being a ſolid Politicall rule, That, in
+<pb n="5" facs="tcp:115588:3"/>things fundamentall, eſſentiall and morall, nothing ought to be determined poſitive<g ref="char:EOLhyphen"/>ly, without the preſence and concurrence of two thirds of a Senate.</p>
+            <p>A further ground of our doubt is this;</p>
+            <p>Chriſt ſaith, We ſhall judge the goodneſſe of a tree by the goodneſſe of its fruits. It is very hard for rationall men to ſuppoſe, that that Authority is lawfull, which ſeems ſo irrationall in many Acts. We ſhall crave leave to ſuggeſt a few.</p>
+            <p n="1">1. We marvell, that a Religious Parliament ſhould make ſo large an intrenchment upon the higheſt Prerogative of God that he exerciſeth upon earth; namely, to diſ<g ref="char:EOLhyphen"/>poſe of Nations, not only locally, in their ſeverall regions and apt climats, but to give every of them their peculiar inheritance Politically. <hi>Deut.</hi> 32.8, 19. <hi>Jer.</hi> 18.6, 7. And what an ancient conſtant heritage he hath given to this Nation in that kinde, is not unknown. We much fear, that God is not well pleaſed, that the ſons of men ſhould peremptorily decree, that this Realm, alwaies governed by Royalty, ſhould from henceforth never be governed by a King. We could wiſh, that thoſe remark<g ref="char:EOLhyphen"/>able paſſages, <hi>Iſa.</hi> 29.15, 16. were read, and throughly conſidered. And, while we are mentioning this Scripture, we cannot but obſerve, what extreme ſeverities and cruelties the Innovators of States put themſelves upon, as followeth there, <hi>ver.</hi> 20, 21. We would be glad if the contrivers of our new Government would conſcientiouſly avoid ſuch rocks.</p>
+            <p n="2">2. That they ſhould go about to take our State from off ſo firm a baſis, and ſet it upon a quick-ſand, or uncertain ſoil. We ſtand now like <hi>Nebuchadnezzars</hi> Image, upon a mixt footing, part iron, part clay, half ſword, half ſcabbard. It makes us fear that the words of the Angel, that made that ſtrange and bi-ſoil'd ſtation, ſetting one foot on the ſea, the other on the earth, are now fulfilling; who ſwore by Him, that liveth for ever, that there ſhould be no more time, <hi>Rev.</hi> 10.6. at leaſt, no time wherein any man can live; unleſſe he be <hi>Amphibios,</hi> or can hang by his hands, well faſtened in Heaven, and teeter till time come again. It may well be accounted no time, that is ſuch a time, wherein men can enjoy no certain Religion, no ſound rea<g ref="char:EOLhyphen"/>ſon, no peace, no money, no quiet in their houſes, no reſt in their beds, nor any hope of ſeeing an end of their diſtractions.</p>
+            <p n="3">3. To meditate ſuch a Toleration, as that no man ſhall be compelled to attend the publike worſhip of God, or to adhere to the eſtabliſhed confeſſion of faith. We think it a leſſe ſin, if ſubjects might have liberty not to ſubmit to the acts and orders of a State. We preſume, obedience to God, is full as neceſſary, as obedience to men.</p>
+            <p n="4">4. We may adde hereunto, ſuch a weariſome delay of putting forward Church-Government by Imparative Authority, that there will be ſcarce pure water enough left to drive ſuch heavy moving wheeles with any life or ſtrength.</p>
+            <p n="5">5. The conſtituting of State-Commiſſioners of ſuch perſons, whereof ſome are generally known to be in divers reſpects very unfit and unacceptable; ſuiting a par<g ref="char:EOLhyphen"/>tiſhip (we are loth to ſay, a faction,) rather than the weighty affairs of the Kingdom.</p>
+            <p n="6">6. That all this, and many other things, ſhould be done at the vaſt charges of the far greateſt and beſt part or the Kingdom, who are utterly averſe to it. Not much unlike that of the <hi>Spaniards,</hi> who cut off the <hi>Indians</hi> arms at their ſhoulders, to beat them about their heads, to make them ſerve their ends. We cannot but think, that
+<pb n="6" facs="tcp:115588:4"/>Taxes, and Free-quarter both, is too heavy an oppreſſion for an exhauſted people to pay, and an idle Army to receive.</p>
+            <p>We ſumme up what we have ſaid in this; We fear that the alterations of a State, by the inteſtine faction, or force, of any <hi>minor</hi> part thereof, though, in their own con<g ref="char:EOLhyphen"/>coits, the <hi>ſanior, melior,</hi> and <hi>fortior</hi> part, is utterly unlawfull, whatſoever neceſſities, providences, and intentions they ptetend. Such <hi>Miranda</hi> are only to be expected in Gods time, and Gods way.</p>
+            <p>The third ground of our doubt is;</p>
+            <p>From our Proteſtations, Covenants and Oaths: which having been ſo ſtrongly and frequently argued by others, we ſhall ſay no more of it but this; That, when a Religious Nation have pawned their God, their Chriſt, their Goſpel, their ſouls, their ſalvation, and their whole proſperity, to do ſuch acts as were then, and ſtill continue lawfull: We cannot comprehend with the utmoſt dimenſions of our Underſtand<g ref="char:EOLhyphen"/>ings, no, not with the pureſt Chymiſtry of our Fancies, no, not with the moſt per<g ref="char:EOLhyphen"/>ſpicacious rayes of light we have, either old, or new, how ſuch a Nation ſhould, not only ſhake off ſuch ſacred chains, but preſume diametrically and point-blank to counter-act thoſe engagements, till they had heard God from heaven proteſt, vow, and ſwear, that he would both have them do ſo, and freely pardon them for it. Which how he ſhould do, is many leagues beyond the worlds end out of our intelligence: It being ſworn in our Oath of Allegiance, That no power whatſoever ſhould ab<g ref="char:EOLhyphen"/>ſolve or deter us from the performing thereof.</p>
+            <p>If we ſlight theſe Obligations, there ſeems to us to be an abſolute neceſſity, to have a ſelect Committee, to treat with God, for two or three Univerſall liberties of Conſcience: And, if he will not concede, to intreat the Army (we will not ſay, to behead, but at leaſt) to dethrone him; and get it Enacted, That neither Father, Sonne, nor holy Ghoſt ſhould ever raigne more in this Kingdom; and an Order, That all the Miniſters in the Land ſhall publiſh it in their ſeverall Congregations; with a profeſſion, That all truth and power of Religion is originally in the people.</p>
+            <p>We come now to the ſecond Queſtion; wherein we ſhall be brief.</p>
+            <p>We cordially profeſſe our ſelves ſolicitious to yeeld obedience to any <hi>Authority,</hi> that can bear the name of <hi>Lawfull.</hi> But the Reaſons of our heſitancy concerning this are two.</p>
+            <p n="1">1. We fear, That by our Submiſſion we ſhall aſſert that power for good, which we ſuſpect to be illegall, or at leaſt to us very dubitable.</p>
+            <p>Would the Army and their party, clearly profeſſe an abſolute <hi>Conquest,</hi> which is a kinde of title, <hi>jure gentium,</hi> we would obſerve all their commands <hi>in licitis &amp; hone<g ref="char:EOLhyphen"/>stis,</hi> for fear ſake, and to avoid offence: as Chriſt did, in paying tribute to the <hi>Ro<g ref="char:EOLhyphen"/>mans.</hi> But to a <hi>bicipitous</hi> and <hi>amphidoxous</hi> Government, unleſſe we have two faces, two tongues, two underſtandings, two judgements, two conſciences, two hearts, two pair of hands, two pair of leggs, two purſes, which every honeſt man hath not, we can<g ref="char:EOLhyphen"/>not ſee how it may be done: eſpecially in ſuch acts of obedience as do neceſſarily ratifie and eſtabliſh an unlawfull or dubitable Authority. Should our ſervants in out houſes riſe upon us, and command us by threats to perform a lawfull act that were but tranſient; we would yeeld, to avoid their force; but if they ſhould affirm, that the
+<pb n="7" facs="tcp:115588:4"/>Government of the family were theirs by right, and that they intended to perpetuate it over us, we ſhould think it a great ſin to betray that place and power, wherein God hath naturally and morally placed us.</p>
+            <p>It is ſaid, That wiſdome requires obedience in this preſent caſe, becauſe it is the only viſible Authority we now have; and, to ſlight it, were to cut the ſinews of all preſent Government, and to proſtrate our ſelves to the rudeneſſe and rapine of unrea<g ref="char:EOLhyphen"/>ſonable men.</p>
+            <p>We conceive, under favour, There is another, more compleat Authority, viſible enough to Religious and Loyall eyes, though for the preſent it be ſuſpended in point of exerciſe, and clapt under hatches for a while. We hold it ſcarce lawfull, for a man to marry another woman, while his wife is in a ſwound, or in a fit of the falling-ſick<g ref="char:EOLhyphen"/>neſſe; or, for a woman to marry another man, while her husband is in captivity, or in priſon, willing to come to her if he might.</p>
+            <p>We alſo conceive, That we are bound to truſt God, who can ſupport a State in a confuſion or <hi>deliquium,</hi> and rule in a <hi>Chaos,</hi> and forbids us to do any evil, that any good may come of it: and not to finde out waies of our own, by any evil ſhifts either to remove his preſent judgements, or to prevent his future mercy. <hi>Truefaith makes no haſte,</hi> &amp;c.</p>
+            <p>Others ſay, That ſuch as withſtand theſe preſent proceedings, do what in them lies, to withſtand thoſe glorious daies of Religion and Government which they think to be now approaching.</p>
+            <p>We would be as glad as any, if we and our children might have a portion in thoſe glorious times, which vain-glorious men dream of: But if ever God produceth ſuch glorious times out of ſuch ungracious courſes, as are now acting, we are reſolved, for our parts, to buy no more Bibles of our Engliſh tranſlation.</p>
+            <p>It's quite beyond the Arcticks of our fore-ſight, how true Religion, and a generall Toleration, regular Authority, and lawleſſe Liberty, ſtrict Magiſtracy, and rude Popu<g ref="char:EOLhyphen"/>larchy, in one and the ſame State, can bring forth any thing but mules and monſters, ſtorms and tempeſts, unſetledneſſe and madneſſe throughout the Kingdom.</p>
+            <p n="2">2. Our ſecond Reaſon is the divine bond of our Covenant and Oathes; which chain us, by our Conſciences, if we miſtake not, to preſerve that kinde of Government which was then exiſtent, and to which only our intentions and obligations did then levell; from which, we tremble to think, that any created power ſhould hold them<g ref="char:EOLhyphen"/>ſelves able to diſcharge us.</p>
+            <p>We have forborn to trouble you with the Statute, and Common Laws of the Land; which have been better pleaded and preſſed by others, than, at preſent, we can.</p>
+            <p>We thus conclude; That if any party of the Kingdom ſhall judge us, by theſe inqui<g ref="char:EOLhyphen"/>ries, to be men of malignant, captious, or rebellious ſpirit: we hope God will inable us, by our peaceable, and paſſive ſubmiſſion, and our unfained willingneſſe to receive ſatisfaction in theſe propounded Queſtions (wherein we pray God to direct you,) to remove all ſuch cenſures and prejudices.</p>
+            <closer>
+               <dateline>From our oppreſſed hearts and houſes, <date>May 4. 1649,</date>
+               </dateline>
+               <signed>Yours in the firmeſt bonds of truth and peace, <hi>A.B.C.D.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:115588:5"/>
+            <head>A Poſt-ſcript.</head>
+            <opener>
+               <salute>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Friends:</salute>
+            </opener>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ſent our former Letter, ſome of us have ſeen a Treatiſe, perſwading obedience in law. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> though unlawful. We very much honour both the Authour and his labour, as <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Yet, we acknowledge, we are not fully ſatisfied therewith. Sundry things <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but we will only mention, and but mention, the moſt materiall.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we conceive, under favour, the holy Ghoſt rather intends ruling power, either in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Magiſtracy; at leaſt in a Magiſtracy, though not truly called, yet ſufficent. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Authority, though by Conqueſt, Uſurpation, or Obtruſion, may be <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if it be once well confirmed by the approbation of a compleat Senste <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or homage of the people; or by a valid continuance or uſage; <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>caſe, ſo far as we can yet diſcern. Yet we do not ſay, that it may be acknowled<g ref="char:EOLhyphen"/>ge <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as a rightfull Authority, in derogation of that which hath a truer title; or that thoſe to when <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, are thereby debarred from making or purſuing their claim, if they be able.</p>
+            <p>We <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> condition to be as that of <hi>Iſrael,</hi> between <hi>David</hi> and <hi>Abſalom:</hi> We much queſtion, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had not greatly ſinned, if they had tendred obedience to <hi>Abſaloms</hi> commands and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as <hi>David</hi> was loving; and his truer title <hi>in nubibus c<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſpic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls &amp; imminentibus,</hi> as we Lawyers <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much hardheartedneſſe, to bury our former Parliament and Government, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, which is of God, ought to be obeyed actively, in what hands ſoever it be; we <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to Rebels power, and loyall Subjects miſery: yea, we think it would <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which joined with our late King, or which have or ſhall join <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wring Rebellion or Invaſion, if they verdy beleeve, and can plead, either <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that any Gentleman, during the late wars, reſiding at <hi>Oxford,</hi> or elſewhere <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Army, who ſhould have acted things in themſelves lawfull, by vertue of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Greet Seal then at <hi>Oxford</hi> (ſuppoſe, as a Judge, or Juſtice of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by judged a Delinquent <hi>ipſo facto,</hi> his eſtate ſeque ſtred, and himſelf <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were extreme injuſtice, if, as is ſuppoſed, he were bo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who in that place had the preſent power, without inquietude by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was no other viſible Authority there to whour they might have <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unreaſonable men, is very evident: and therefore to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was then and there bound to do, were extreme injuſtice.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; we ſay, The<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> muſt all the <hi>Kingdom</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; Maſters, their Men; and a T<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> difference between active and paſſive <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and unlawfull power, to be <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and lawfull power.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> alwaies diſcern or decide true titles from <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by a full and tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Parliament.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> abo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Oaths; <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of God hath made <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo, is that we may become <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poſſible and lawfull, are and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Parlitment or, as it was then in its <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> act.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we think they may be taken either is copulative, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Lady <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gray,</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Oath of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: Yet if then <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Oath <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for as it is not propedy <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, than wholly <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Power, we and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; but we neither defire, not delight <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <closer>
+               <signed>Fare ye well, <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
